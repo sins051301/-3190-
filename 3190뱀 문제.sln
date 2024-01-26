@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3190뱀 문제", "3190뱀 문제\3190뱀 문제.vcxproj", "{D6C26942-8DD4-4690-BA71-B44F95B4D86B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6C26942-8DD4-4690-BA71-B44F95B4D86B}.Debug|x64.ActiveCfg = Debug|x64
+		{D6C26942-8DD4-4690-BA71-B44F95B4D86B}.Debug|x64.Build.0 = Debug|x64
+		{D6C26942-8DD4-4690-BA71-B44F95B4D86B}.Debug|x86.ActiveCfg = Debug|Win32
+		{D6C26942-8DD4-4690-BA71-B44F95B4D86B}.Debug|x86.Build.0 = Debug|Win32
+		{D6C26942-8DD4-4690-BA71-B44F95B4D86B}.Release|x64.ActiveCfg = Release|x64
+		{D6C26942-8DD4-4690-BA71-B44F95B4D86B}.Release|x64.Build.0 = Release|x64
+		{D6C26942-8DD4-4690-BA71-B44F95B4D86B}.Release|x86.ActiveCfg = Release|Win32
+		{D6C26942-8DD4-4690-BA71-B44F95B4D86B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {813309C8-5D0A-4957-8078-6BAD6C0AD00B}
+	EndGlobalSection
+EndGlobal
